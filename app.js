@@ -8,4 +8,4 @@ function agregarAmigo(){
     console.log(amigos);
        
 }
-
+//este comentario es para ver si el commit se realizo // y pa ver si el codigo que se realiza en ...
